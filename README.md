@@ -2,7 +2,7 @@
 - 👀 I’m interested in Streaming and music  
 - 🌱 I’m currently learning administrative and  some programing 
 - 💞️ I’m looking to collaborate on my platform
-- 📫 How to reach me @omidvalipour1376@gmail.com
+- 📫 How to reach me @omidvalipoor1376@gmail.com
 
 <!---
 omidvr/omidvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
